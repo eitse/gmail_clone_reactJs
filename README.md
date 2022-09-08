@@ -1,5 +1,5 @@
 # View the demo of the Gmail Clone with Compose Message Functionality (Backend - Firebase)
-Click here to view [Gmail Clone](https://github.com/facebook/create-react-app)
+Click here to view [Gmail Clone Demo](https://eitse.github.io/gmail_clone_reactJs/)
 
 # Getting Started with Create React App and Redux
 
